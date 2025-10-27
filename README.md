@@ -1,1 +1,1 @@
-# 2025-2026-Tech & Non tech roadmaps
+# 2025-2026-roadmaps
