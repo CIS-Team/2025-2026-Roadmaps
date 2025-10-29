@@ -376,7 +376,7 @@ Server-side rendering (SSR) is the ability of an application to contribute by di
   - [daisyUI 🎬📃🎬](https://www.youtube.com/playlist?list=PLb90U00aeJnAfSFybN_EW6GIs0GZASLLM)  
     ![YouTubeEnglish](https://img.shields.io/badge/En%20Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-## **API Calls in React** 🔗
+## **API Calls in Vue** 🔗
 
 - [API Calls 📖](https://medium.com/@sixtusgreat_16629/title-a-comprehensive-guide-to-fetching-data-from-api-with-vue-js-710c44a81ce3)
   - REST:
