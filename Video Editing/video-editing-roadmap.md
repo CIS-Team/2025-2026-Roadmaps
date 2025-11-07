@@ -14,7 +14,7 @@
 - [Ibrahim Diallo (1–15)](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw&si=qt55qsIXoGNlwwtb)
 
 🌏 **English**
-
+[Premiere Pro Full Course — Part 2 (0:00 – 3:00 hours)](https://youtu.be/eCsM0r3RNc4?si=KNBr23biyiFv2soL)
 
 
 ---
@@ -32,7 +32,7 @@
 - [Ibrahim Diallo (15–24)](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw&si=qt55qsIXoGNlwwtb)
 
 🌏 **English**
-
+[Premiere Pro Full Course — Part 2 (3:00 – 6:00 hours)](https://youtu.be/eCsM0r3RNc4?si=KNBr23biyiFv2soL)
 
 
 ---
