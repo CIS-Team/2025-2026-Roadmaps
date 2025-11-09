@@ -190,7 +190,8 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 ------------------------------------------------------------------------------------------------- 
 
 ### Responsive:
-- [📽️ Arabic Video](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
+- [📽️ Arabic Video 1](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
+- [📽️ Arabic Video 2](https://youtu.be/xUfiMPTz2mI?si=GiMcYWCKaVlaudYE)
 - [📽️ English Video](https://www.youtube.com/watch?v=gwiX0oASlEw)
   
 ----------------------------------------------------------------------------------------------------------------
@@ -464,3 +465,4 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 <a href="linkedin.com/in/haneen-elmetwally" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 ![TheOfficeMichaelScottGIF](https://github.com/user-attachments/assets/76451ea2-2466-45cc-8c42-759f348c1ed0)
+
