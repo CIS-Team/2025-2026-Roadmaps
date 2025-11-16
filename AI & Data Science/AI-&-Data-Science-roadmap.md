@@ -55,7 +55,11 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.youtube.com/watch?v=KxryzSO1Fjs">Simplilearn | Understanding Data Science</a> </li>
         </ul>
       </td>
-      <td>Learn what Data Science is and how it’s used.<br> Understand data roles, tools, and real-life use cases.</td>
+      <td><ul>
+        <li>Learn what data is and how to make data-driven decisions.</li>
+        <li>Learn to find data from various sources, understand the different types and formats.</li>
+        <li>Learn about the different categories of data analysis: descriptive, diagnostic, predictive, and prescriptive, and understand when to use each one</li>
+      </ul></td>
     </tr>
     <tr>
       <td>2</td>
@@ -68,7 +72,11 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics </a></li>
         </ul>
       </td>
-      <td> Understand mean, median, variance, and distributions.<br>Learn how data behaves and how to describe it.</td>
+      <td><ul>
+        <li>Learn organizing and summarizing data using descriptive statistical concepts (mean, mode, median, etc).</li>
+        <li>Know the differnt types of plots and when to use each of them.</li>
+        <li>Learn how to draw conclusions and make predictions using inferential statistical concepts.</li>
+      </ul></td>
     </tr>
     <tr>
       <td>3</td>
@@ -81,7 +89,10 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://youtu.be/Ej_02ICOIgs">freeCodeCamp – Python OOP</a></li>
         </ul>
       </td>
-      <td> Write Python scripts and understand loops/functions.<br> Build classes and grasp OOP design principles.</td>
+      <td><ul>
+        <li>Write Python code and learn Programming basics (loops, condtitions, functions, etc)</li>
+        <li>Build classes and grasp OOP design principles in Python.</li>
+      </ul></td>
     </tr>
   </tbody>
 </table>
@@ -113,7 +124,10 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://app.datacamp.com/learn/courses/introduction-to-numpy">DataCamp – NumPy</a></li>
         </ul>
       </td>
-      <td>Understand how to handle numerical data efficiently using arrays.</td>
+      <td><ul>
+        <li>Work on large multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.</li>
+        <li>Make linear algebra and statistical calculations on arrays.</li>
+      </ul></td>
     </tr>
     <tr>
       <td>2</td>
@@ -125,7 +139,10 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://app.datacamp.com/learn/courses/manipulating-dataframes-with-pandas">DataCamp – Pandas</a> </li>
         </ul>
       </td>
-      <td>Master working with DataFrames and Series.</td>
+      <td><ul>
+        <li>Learn how to clean and preprocess data (handling missing values, filtering, sorting, etc).</li>
+        <li>Apply functions, aggregate data, and perform mathematical operations on entire datasets.</li>
+      </ul></td>
     </tr>
     <tr>
       <td>3</td>
@@ -137,7 +154,11 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://youtu.be/TXiKPcbHmO8?si=-bfKgHWEI0_AO0r5">Data Cleaning Arabic</a> </li>
         </ul>
       </td>
-      <td>Learn practical cleaning steps using Pandas.</td>
+      <td><ul>
+        <li>Learn to diagnose and treat dirty data and the techniques you need to clean them.</li>
+        <li>Perform tasks like record linkage to merge datasets.</li>
+        <li>Learn more about string manipulation and fuzzy matching.</li>
+      </ul></td>
     </tr>
     <tr>
       <td>4</td>
@@ -149,7 +170,10 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">Osama Elzero – RegEx Arabic</a> </li>
         </ul>
       </td>
-      <td>Understand pattern extraction for text data.</td>
+      <td><ul>
+        <li>Learn how to extract information from text-based data.</li>
+        <li>Learn to detect and match specific patterns within strings using regular expressions.</li>
+      </ul></td>
     </tr>
     <tr>
       <td>5</td>
@@ -161,7 +185,9 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib">DataCamp – Matplotlib</a> </li>
         </ul>
       </td>
-      <td>Build basic plots to visualize distributions and relationships.</td>
+      <td><ul>
+        <li>Practice data visualization and generate plots, histograms, bar charts, line graphs, etc.</li>
+      </ul></td>
     </tr>
     <tr>
       <td>6</td>
@@ -173,7 +199,10 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS">Corey Schafer – Seaborn</a> </li>
         </ul>
       </td>
-      <td>Enhance data visuals with advanced chart types.</td>
+      <td><ul>
+        <li>Enhance data visuals with advanced chart types.</li>
+        <li>Use the high-level functionality of Seaborn to reduce the underlying complexity when producing plots.</li>
+      </ul></td>
     </tr>
     <tr>
       <td>7</td>
@@ -185,7 +214,11 @@ This roadmap is divided into clear stages — each one represents a step in your
           <li><a href="https://www.youtube.com/watch?v=GcXcSZ0gQps">StatQuest – EDA Basics</a></li>
         </ul>
       </td>
-      <td>Combine visualization and summary statistics to explore data.</td>
+      <td><ul>
+        <li>Combine visualization and summary statistics to explore data.</li>
+        <li>Understand a dataset and discover patterns & relationships.</li>
+        <li>Formulate and test hypotheses.</li>
+      </ul></td>
     </tr>
   </tbody>
 </table>
