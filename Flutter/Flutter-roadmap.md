@@ -31,7 +31,41 @@
 <details>
   <summary>Timeline</summary>
 
-- Week 1: Flutter Basics  
+## Week 1: Flutter Basics
+
+<details>
+  <summary><strong>Content</strong></summary>
+
+- https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3&si=BsoANtb6WgQU37vw  
+- https://drive.google.com/file/d/1dx7eWezWqsNK_zwo5O15BHx2tQLTFMsO/view?usp=sharing *(chapter 1 only)*
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Task 1</strong></summary>
+
+Please answer the following questions in as much detail as you can:
+
+- What is Flutter?  
+- How can Flutter build apps for different platforms using one codebase?  
+- What is meant by: directory, package, library, framework, SDK, IDE?  
+- What is a Widget? Give as many examples as you can.  
+- What is state? And what is the difference between stateless and stateful widgets?
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Note</strong></summary>
+
+Feel free to write the answers in Word, Notion, or handwritten.  
+😇 *Just write them wherever you want* 😇  
+
+</details>
+  
 - Week 2: Dart Basics  
 - Week 3: Dart Basics Review  
 - Week 4: OOP  
@@ -144,6 +178,7 @@
 - لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ`<a id="..."></a>` كما في الملف.  
 - لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.  
 - لو عايزة أحول الملف ده فعليًا لملف `README.md` للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
+
 
 
 
