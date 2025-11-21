@@ -114,17 +114,26 @@ To know your group mates, please check the spreadsheet sent on the Announcement 
 
 <details>
   <summary>Objectives</summary>
-- (Advanced objectives)
+
+- Learning about common ways to create Animations in Flutter.  
+- Advancing in UI coding & using APIs in applications.  
+- Learning about Firebase services and how to use Firebase Authentication, Firebase Storage, Firebase Firestore.  
+- Learning how to achieve State Management in your application using provider package.  
+- Learning about Clean Code and SOLID Principles.
 </details>
 
 <details>
   <summary>Timeline</summary>
-- (Advanced timeline)
+- Weeks (https://same-index-908.notion.site/Timeline-1968988f7cf68146a2a3c286386667e2)
 </details>
 
 <details>
   <summary>Final Project</summary>
-- (Advanced final project)
+The full Final Project description is provided here:
+
+🔗 **Final Project Link:**  
+https://same-index-908.notion.site/Final-Project-1968988f7cf681ea93e8cee17ac05ed6
+
 </details>
 
 ---
@@ -132,42 +141,34 @@ To know your group mates, please check the spreadsheet sent on the Announcement 
 ## Important Topics:
 
 <details>
-  <summary>Objectives</summary>
+  <summary>Clean Code</summary>
 
-- Firebase (Auth – Firestore – Storage)
-- CI/CD
-- Publishing
-- Security
-- Git workflow
+- ## Content:
+(https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
+
+
+</details>
+
+<details>
+  <summary>Solid Principles</summary>
+- SOLID Principles:
+    (https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+
+</details>
+
+<details>
+  <summary>Architecture MVVM</summary>
+
+- Flutter MVVM
+    [(36) 15- Flutter MVVM (عربى) - YouTube](https://www.youtube.com/playlist?list=PL3aG1K3LWCrfvjEBkx3ujAtg7yK0zzTiY)
+
+</details>
+
+<details>
+  <summary>Design Pattern</summary>
+
 - Design patterns
-
-</details>
-
-<details>
-  <summary>Timeline</summary>
-
-- (Add your timeline)
-
-</details>
-
-<details>
-  <summary>Final Project</summary>
-
-- (Add your final project)
-
+    (https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR(
 </details>
 
 ---
-
-## 📌 Notes & Tips
-
-- لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ `<a id="..."></a>` كما في الملف.
-- لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.
-- لو عايزة أحول الملف ده فعليًا لملف README.md للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
-
-
-
-
-
-
-
