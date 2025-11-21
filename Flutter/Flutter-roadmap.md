@@ -30,8 +30,7 @@
 
 <details>
   <summary>Timeline</summary>
-- [Week 2](https://same-index-908.notion.site/Timeline-1968988f7cf681e2a39bdba0dc884045)
-
+- Weeks (https://same-index-908.notion.site/Timeline-1968988f7cf681e2a39bdba0dc884045)
   
   <summary>Final Project</summary>
 
@@ -148,6 +147,7 @@
 - لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ `<a id="..."></a>` كما في الملف.
 - لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.
 - لو عايزة أحول الملف ده فعليًا لملف README.md للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
+
 
 
 
