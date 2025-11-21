@@ -1,6 +1,8 @@
 <!-- README.md for Flutter Roadmap -->
 <img width="1920" height="1080" alt="flutter cover" src="https://github.com/user-attachments/assets/04df1f7c-b16b-4ca7-9061-14ff704b63ba" />
 
+
+
 # 🚀 Flutter Roadmap | 2026
 **"لِلَّهِ رَبِّ العالَمِين"**
 
@@ -13,15 +15,10 @@
 - [Important Topics](#important-topics)
 
 ---
+## Beginner:
 
-# 🟦 Beginner
-<a id="beginner"></a>
-
----
-
-## 🔹 Objectives
 <details>
-  <summary>Open Objectives</summary>
+  <summary>Objectives</summary>
 
 - Learning basics of programming (compiler, IDE, packages, libraries)
 - Background about Flutter & Dart
@@ -31,88 +28,65 @@
 
 </details>
 
----
-
-## 🔹 Timeline
 <details>
-  <summary>Open Timeline</summary>
+  <summary>Timeline</summary>
+<details>
+  <summary><strong>Week 1: Flutter Basics</strong></summary>
 
-<ul>
-  <li>
-    <details>
-      <summary><strong>Week 1: Flutter Basics</strong></summary>
+<br>
 
-      <ul>
+<details>
+  <summary><strong>Content</strong></summary>
 
-        <li>
-          <details>
-            <summary><strong>Content</strong></summary>
-
-            - https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3&si=BsoANtb6WgQU37vw  
-            - https://drive.google.com/file/d/1dx7eWezWqsNK_zwo5O15BHx2tQLTFMsO/view?usp=sharing *(chapter 1 only)*
-
-          </details>
-        </li>
-
-        <hr>
-
-        <li>
-          <details>
-            <summary><strong>Task 1</strong></summary>
-
-            Please answer the following questions in as much detail as you can:
-
-            - What is Flutter?  
-            - How can Flutter build apps for different platforms using one codebase?  
-            - What is meant by: directory, package, library, framework, SDK, IDE?  
-            - What is a Widget? Give as many examples as you can.  
-            - What is state? And what is the difference between stateless and stateful widgets?
-
-          </details>
-        </li>
-
-        <hr>
-
-        <li>
-          <details>
-            <summary><strong>Note</strong></summary>
-
-            Feel free to write the answers in Word, Notion, or handwritten.  
-            😇 *Just write them wherever you want* 😇
-
-          </details>
-        </li>
-
-      </ul>
-    </details>
-  </li>
-
-  <br>
-
-  <li>Week 2: Dart Basics</li>
-  <li>Week 3: Dart Basics Review</li>
-  <li>Week 4: OOP</li>
-  <li>Week 5: OOP Review</li>
-  <li>Week 6: Flutter Basic Widgets</li>
-  <li>Week 7: ListTiles & TextField & AppBar</li>
-
-</ul>
+- https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3&si=BsoANtb6WgQU37vw
+- https://drive.google.com/file/d/1dx7eWezWqsNK_zwo5O15BHx2tQLTFMsO/view?usp=sharing *(chapter 1 only)*
 
 </details>
 
 ---
 
-## 🔹 Final Project
 <details>
-  <summary>Open Final Project</summary>
+  <summary><strong>Task 1</strong></summary>
+
+Please answer the following questions in as much detail as you can:
+
+- What is Flutter?  
+- How can Flutter build apps for different platforms using one codebase?  
+- What is meant by: directory, package, library, framework, SDK, IDE?  
+- What is a Widget? Give as many examples as you can.  
+- What is state? And what is the difference between stateless and stateful widgets?
+
+</details>
+
+---
+
+<details>
+  <summary><strong>Note</strong></summary>
+
+Feel free to write the answers in Word, Notion, or handwritten.  
+😇 *Just write them wherever you want* 😇
+
+</details>
+
+</details>
+
+- Week 2: Dart Basics  
+- Week 3: Dart Basics Review  
+- Week 4: OOP  
+- Week 5: OOP Review  
+- Week 6: Flutter Basic Widgets  
+- Week 7: ListTiles & TextField & AppBar  
+
+</details>
+
+<details>
+  <summary>Final Project</summary>
 
 ### Task 1: Hangman CLI  
 - Research game logic  
 - Build CLI app  
 - Use Dart + OOP  
-- Deliverables: code + optional README  
-
----
+- Deliverables: code + optional README
 
 ### Task 2: System Analysis + OOP  
 - Choose (Car Rental / Sales / Hotel Booking)  
@@ -120,76 +94,97 @@
 - Implement OOP version  
 - Deliverables: UML + code + presentation  
 
----
-
 ### Task 3: UI Implementation  
 - Implement provided design  
 - Pixel-perfect  
 - Buttons functional  
-- Deliverables: Flutter code + widget tree  
+- Deliverables: Flutter UI + widget tree  
 
 </details>
 
 ---
-# 🟩 Intermediate
-<a id="intermediate"></a>
+## Intermediate:
 
-<details><summary>Objectives</summary>
-(Add your Intermediate objectives)
+<details>
+  <summary>Objectives</summary>
+- (Add your Intermediate objectives)
 </details>
 
-<details><summary>Timeline</summary>
-(Add Intermediate timeline)
+<details>
+  <summary>Timeline</summary>
+- (Intermediate timeline)
 </details>
 
-<details><summary>Final Project</summary>
-(Add Intermediate final project)
+<details>
+  <summary>Final Project</summary>
+- (Intermediate final project)
 </details>
+
 
 ---
 
-# 🟪 Advanced
+## 🟪 Advanced
 <a id="advanced"></a>
 
-<details><summary>Objectives</summary>
-(Add Advanced objectives)
-</details>
+<details>
+  <summary><strong>Open Advanced Level</strong></summary>
 
-<details><summary>Timeline</summary>
-(Add Advanced timeline)
-</details>
-
-<details><summary>Final Project</summary>
-(Add Advanced final project)
-</details>
+## **Advanced Level**
 
 ---
+## Advanced:
 
-# 🔶 Important Topics
-<a id="important-topics"></a>
+<details>
+  <summary>Objectives</summary>
+- (Advanced objectives)
+</details>
 
-<details><summary>Objectives</summary>
+<details>
+  <summary>Timeline</summary>
+- (Advanced timeline)
+</details>
+
+<details>
+  <summary>Final Project</summary>
+- (Advanced final project)
+</details>
+
+
+---
+## Important Topics:
+
+<details>
+  <summary>Objectives</summary>
 
 - Firebase (Auth – Firestore – Storage)  
 - CI/CD  
 - Publishing  
 - Security  
 - Git workflow  
-- Design patterns  
+- Design patterns
 
 </details>
 
-<details><summary>Timeline</summary>
-(Add timeline)
+<details>
+  <summary>Timeline</summary>
+- (Add your timeline)
 </details>
 
-<details><summary>Final Project</summary>
-(Add your final project)
+<details>
+  <summary>Final Project</summary>
+- (Add your final project)
 </details>
+
 
 ---
 
 ## 📌 Notes & Tips
-- GitHub يعمل indent فقط لو استخدمنا `<ul><li>` كما فعلنا.  
-- الشكل الآن منظم وتحته Indentation احترافي.  
-- جاهزة أضيف لك Weeks 2–7 كاملين بنفس الشكل؟  
+- لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ`<a id="..."></a>` كما في الملف.  
+- لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.  
+- لو عايزة أحول الملف ده فعليًا لملف `README.md` للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
+
+
+
+
+
+
