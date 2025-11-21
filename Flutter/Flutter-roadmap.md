@@ -143,7 +143,7 @@ https://same-index-908.notion.site/Final-Project-1968988f7cf681ea93e8cee17ac05ed
 <details>
   <summary>Clean Code</summary>
 
-- ## Content:
+- Clean Code:
 (https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
 
@@ -172,3 +172,4 @@ https://same-index-908.notion.site/Final-Project-1968988f7cf681ea93e8cee17ac05ed
 </details>
 
 ---
+
