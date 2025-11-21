@@ -1,17 +1,32 @@
-# 🚀 Flutter Roadmap | 2025  
+<!-- README.md for Flutter Roadmap -->
+
+<!-- Banner image (local path you provided) -->
+![Roadmap Banner](/mnt/data/159f9592-96a2-427a-a3ca-37c4b7d12ead.png)
+
+# 🚀 Flutter Roadmap | 2026
 **"لِلَّهِ رَبِّ العالَمِين"**
 
 ---
 
-## 📚 Levels
+## 🔗 Roadmap Levels:
+- [Beginner](#beginner)  
+- [Intermediate](#intermediate)  
+- [Advanced](#advanced)  
+- [Important Topics](#important-topics)
 
 ---
 
-### 1️⃣ Beginner Level
+## 🟦 Beginner
+<a id="beginner"></a>
+
 <details>
-  <summary><strong>Click to Expand Level</strong></summary>
+  <summary><strong>Open Beginner Level</strong></summary>
 
 ## **🌟 Beginner Level**
+> **"لِلَّهِ رَبِّ العالَمِين"**
+
+---
+
 ### 🥇 Objectives
 <details>
   <summary>Show Objectives</summary>
@@ -23,22 +38,33 @@
 - Learning about widgets, state, stateful & stateless widgets, and some common widgets.
 
 </details>
+
+---
+
 ### ⏳ Timeline
 <details>
   <summary>Show Timeline</summary>
 
-### 📘 Week 1: Flutter Basics
+- **Week 1:** Flutter Basics  
+- **Week 2:** Dart Basics  
+- **Week 3:** Dart Basics Review  
+- **Week 4:** OOP  
+- **Week 5:** OOP Review  
+- **Week 6:** Flutter Basic Widgets  
+- **Week 7:** ListTiles & TextField & AppBar
+
+#### Week 1 (expand for full content)
 <details>
   <summary>Show Week 1 Content</summary>
 
-## **Content:**
+**Content:**
 
 - https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3&si=BsoANtb6WgQU37vw  
 - https://drive.google.com/file/d/1dx7eWezWqsNK_zwo5O15BHx2tQLTFMsO/view?usp=sharing *(chapter 1 only)*
 
 ---
 
-## **Task 1:**
+**Task 1:**
 
 Please, answer the following questions in as much detail as you can:
 
@@ -50,20 +76,11 @@ Please, answer the following questions in as much detail as you can:
 
 ---
 
-## **Note:**
+**Note:**  
 Feel free to write the answers in Word, Notion, or handwritten.  
 😇 *Just write them wherever you want* 😇
 
 </details>
-
-
-  
-- Week 2: Dart Basics  
-- Week 3: Dart Basics Review  
-- Week 4: OOP  
-- Week 5: OOP Review  
-- Week 6: Flutter Basic Widgets  
-- Week 7: ListTiles & TextField & AppBar
 
 </details>
 
@@ -118,7 +135,6 @@ Feel free to write the answers in Word, Notion, or handwritten.
 - **🧠 What to Do:**
     - Visit the provided screen design:  
       [Beginner Project - Screen](https://www.notion.so/Beginner-Project-Screen-1968988f7cf6814dbba4f828cddbe5e2?pvs=21)
-        
     - Build the widget tree based on the design
     
 > Notes:  
@@ -136,9 +152,11 @@ Feel free to write the answers in Word, Notion, or handwritten.
 
 ---
 
-### 2️⃣ Intermediate Level
+## 🟩 Intermediate
+<a id="intermediate"></a>
+
 <details>
-  <summary><strong>Click to Expand Level</strong></summary>
+  <summary><strong>Open Intermediate Level</strong></summary>
 
 ## **Intermediate Level**
 
@@ -176,9 +194,11 @@ Feel free to write the answers in Word, Notion, or handwritten.
 
 ---
 
-### 3️⃣ Advanced Level
+## 🟪 Advanced
+<a id="advanced"></a>
+
 <details>
-  <summary><strong>Click to Expand Level</strong></summary>
+  <summary><strong>Open Advanced Level</strong></summary>
 
 ## **Advanced Level**
 
@@ -216,9 +236,11 @@ Feel free to write the answers in Word, Notion, or handwritten.
 
 ---
 
-### 4️⃣ Important Topics
+## 🔶 Important Topics
+<a id="important-topics"></a>
+
 <details>
-  <summary><strong>Click to Expand Level</strong></summary>
+  <summary><strong>Open Important Topics</strong></summary>
 
 ## **Important Topics**
 
@@ -258,3 +280,11 @@ Feel free to write the answers in Word, Notion, or handwritten.
 </details>
 
 </details>
+
+---
+
+## 📌 Notes & Tips
+- لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ`<a id="..."></a>` كما في الملف.  
+- لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.  
+- لو عايزة أحول الملف ده فعليًا لملف `README.md` للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
+
