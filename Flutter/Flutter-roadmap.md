@@ -70,11 +70,10 @@ Feel free to write the answers in Word, Notion, or handwritten.
 </details>
 
 </details>
----
+
 <details>
   <summary><strong>Week 2: Dart Basics</strong></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
   <details>
     <summary><strong>Content</strong></summary>
@@ -84,7 +83,6 @@ Feel free to write the answers in Word, Notion, or handwritten.
 
   </details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
   <details>
     <summary><strong>Task 1</strong></summary>
@@ -94,7 +92,6 @@ https://www.notion.so/Task-1-1968988f7cf681f29ee6c317f781f232?pvs=21
 
   </details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
   <details>
     <summary><strong>Task 2</strong></summary>
@@ -104,7 +101,7 @@ Sketch the **widget tree** for these screens.
   </details>
 
 </details>
----
+
 - Week 3: Dart Basics Review  
 - Week 4: OOP  
 - Week 5: OOP Review  
@@ -229,3 +226,4 @@ Sketch the **widget tree** for these screens.
 - لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ `<a id="..."></a>` كما في الملف.
 - لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.
 - لو عايزة أحول الملف ده فعليًا لملف README.md للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
+
