@@ -97,6 +97,11 @@ https://www.notion.so/Task-1-1968988f7cf681f29ee6c317f781f232?pvs=21
     <summary><strong>Task 2</strong></summary>
 
 Sketch the **widget tree** for these screens.
+<img width="443" height="841" alt="image" src="https://github.com/user-attachments/assets/2950fb11-e31b-43df-996d-394d2f8d7d51" />
+<img width="1024" height="1904" alt="image" src="https://github.com/user-attachments/assets/1280b7bd-00c9-4efa-a48d-4070998d0214" />
+<img width="326" height="701" alt="{4A88D82E-FB5E-4405-815B-D75763204CFC}" src="https://github.com/user-attachments/assets/9b657715-7411-4bb4-b069-8ad9f73c4d52" />
+
+
 
   </details>
 
@@ -226,4 +231,5 @@ Sketch the **widget tree** for these screens.
 - لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ `<a id="..."></a>` كما في الملف.
 - لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.
 - لو عايزة أحول الملف ده فعليًا لملف README.md للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
+
 
