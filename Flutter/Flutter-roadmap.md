@@ -32,88 +32,8 @@
   <summary>Timeline</summary>
 
 <details>
-  <summary><strong>Week 1: Flutter Basics</strong></summary>
 
-<br>
-
-<details>
-  <summary><strong>Content</strong></summary>
-
-- https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3&si=BsoANtb6WgQU37vw
-- https://drive.google.com/file/d/1dx7eWezWqsNK_zwo5O15BHx2tQLTFMsO/view?usp=sharing *(chapter 1 only)*
-
-</details>
-
-
-
-<details>
-  <summary><strong>Task 1</strong></summary>
-
-Please answer the following questions in as much detail as you can:
-
-- What is Flutter?
-- How can Flutter build apps for different platforms using one codebase?
-- What is meant by: directory, package, library, framework, SDK, IDE?
-- What is a Widget? Give as many examples as you can.
-- What is state? And what is the difference between stateless and stateful widgets?
-
-</details>
-
-
-
-<details>
-  <summary><strong>Note</strong></summary>
-
-Feel free to write the answers in Word, Notion, or handwritten.  
-😇 *Just write them wherever you want* 😇
-
-</details>
-
-</details>
-
-<details>
-  <summary><strong>Week 2: Dart Basics</strong></summary>
-
-
-  <details>
-    <summary><strong>Content</strong></summary>
-
-- **Dart Programming Language (01 to 54):**  
-  https://www.youtube.com/playlist?list=PL93xoMrxRJIsYc9L0XBSaiiuq01JTMQ_o
-
-  </details>
-
-
-  <details>
-    <summary><strong>Task 1</strong></summary>
-
-🔗 **Task 1 Link:**  
-https://www.notion.so/Task-1-1968988f7cf681f29ee6c317f781f232?pvs=21
-
-  </details>
-
-
-  <details>
-    <summary><strong>Task 2</strong></summary>
-
-Sketch the **widget tree** for these screens.
-<img width="443" height="841" alt="image" src="https://github.com/user-attachments/assets/2950fb11-e31b-43df-996d-394d2f8d7d51" />
-<img width="1024" height="1904" alt="image" src="https://github.com/user-attachments/assets/1280b7bd-00c9-4efa-a48d-4070998d0214" />
-<img width="326" height="701" alt="{4A88D82E-FB5E-4405-815B-D75763204CFC}" src="https://github.com/user-attachments/assets/9b657715-7411-4bb4-b069-8ad9f73c4d52" />
-
-
-
-  </details>
-
-</details>
-
-- Week 3: Dart Basics Review  
-- Week 4: OOP  
-- Week 5: OOP Review  
-- Week 6: Flutter Basic Widgets  
-- Week 7: ListTiles & TextField & AppBar  
-
-</details>
+ https://same-index-908.notion.site/Timeline-1968988f7cf681e2a39bdba0dc884045
 
 <details>
   <summary>Final Project</summary>
@@ -231,5 +151,6 @@ Sketch the **widget tree** for these screens.
 - لتفعيل الروابط الانتقالية (anchor links) داخل GitHub README، تأكدي إن العناوين موجودة بنفس النص المستخدم بالروابط أو استخدمي الـ `<a id="..."></a>` كما في الملف.
 - لو عايزة أضيف وصف لكل Week (مهام، تمارين، روابط فيديو) أكمّل الباقي بنفس التنسيق.
 - لو عايزة أحول الملف ده فعليًا لملف README.md للتحميل هنا، أعملهولِك وحطّك لينك للتحميل.
+
 
 
