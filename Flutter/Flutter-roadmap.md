@@ -1,4 +1,4 @@
-# 🚀 Flutter Roadmap | 2026 
+# 🚀 Flutter Roadmap | 2025  
 **"لِلَّهِ رَبِّ العالَمِين"**
 
 ---
@@ -12,11 +12,6 @@
   <summary><strong>Click to Expand Level</strong></summary>
 
 ## **🌟 Beginner Level**
-
-> **"لِلَّهِ رَبِّ العالَمِين"**
-
----
-
 ### 🥇 Objectives
 <details>
   <summary>Show Objectives</summary>
@@ -28,17 +23,47 @@
 - Learning about widgets, state, stateful & stateless widgets, and some common widgets.
 
 </details>
-
----
-
 ### ⏳ Timeline
 <details>
   <summary>Show Timeline</summary>
 
-- Week 1 → Basics  
-- Week 2 → Widgets  
-- Week 3 → Layout  
-- Week 4 → Navigation & Mini Apps  
+### 📘 Week 1: Flutter Basics
+<details>
+  <summary>Show Week 1 Content</summary>
+
+## **Content:**
+
+- https://youtube.com/playlist?list=PL3aG1K3LWCrfDDYJkIjOERHdxVEtkp6T3&si=BsoANtb6WgQU37vw  
+- https://drive.google.com/file/d/1dx7eWezWqsNK_zwo5O15BHx2tQLTFMsO/view?usp=sharing *(chapter 1 only)*
+
+---
+
+## **Task 1:**
+
+Please, answer the following questions in as much detail as you can:
+
+- What is Flutter?  
+- How can Flutter build apps for different platforms using one codebase?  
+- What is meant by: directory, package, library, framework, SDK, IDE?  
+- What is a Widget? Give as many examples as you can.  
+- What is state? And what is the difference between stateless and stateful widgets?
+
+---
+
+## **Note:**
+Feel free to write the answers in Word, Notion, or handwritten.  
+😇 *Just write them wherever you want* 😇
+
+</details>
+
+
+  
+- Week 2: Dart Basics  
+- Week 3: Dart Basics Review  
+- Week 4: OOP  
+- Week 5: OOP Review  
+- Week 6: Flutter Basic Widgets  
+- Week 7: ListTiles & TextField & AppBar
 
 </details>
 
