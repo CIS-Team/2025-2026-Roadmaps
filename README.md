@@ -41,5 +41,5 @@ Whether you're a beginner, a student, or shifting careers, these roadmaps provid
 
 💻 **Start your journey today and level up your tech skills!**
 
-![logo](./assets/logo.png)  
-![slogan](./assets/slogan.png)
+![logo](./asset/logo.png)  
+![slogan](./asset/slogan.png)
