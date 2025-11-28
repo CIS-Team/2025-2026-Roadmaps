@@ -8,17 +8,16 @@ Each roadmap covers the **core concepts, tools, technologies, resources, and pro
 
 ## **📂 Included Tracks**
 
-1. [**AI & Data Science**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/AI%20%26%20Data%20Science)  
-2. [**Backend**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Backend)  
-3. [**Business Analysis**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Business%20Analysis)  
-4. [**Computer Science**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Computer%20Science)  
-5. [**Cyber Security**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Cyber%20Security)  
-6. [**Flutter**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Flutter)  
-7. [**Frontend**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Frontend)  
-8. [**UI/UX**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/UI%20-%20UX)  
-9. [**Video Editing**](#https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Video%20Editing)  
+1. [**AI & Data Science**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/AI%20%26%20Data%20Science)  
+2. [**Backend**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Backend)  
+3. [**Business Analysis**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Business%20Analysis)  
+4. [**Computer Science**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Computer%20Science)  
+5. [**Cyber Security**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Cyber%20Security)  
+6. [**Flutter**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Flutter)  
+7. [**Frontend**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Frontend)  
+8. [**UI/UX**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/UI%20-%20UX)  
+9. [**Video Editing**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Video%20Editing)  
 
-> *(Replace `#` with your actual folder links)*
 
 Each track includes:  
 - ✔️ Full roadmap  
