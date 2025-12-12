@@ -1,188 +1,176 @@
 # 🧭 Business Analysis Roadmap
 
 A complete, practical roadmap for anyone starting their **Business Analysis** journey — from zero knowledge to professional readiness.  
-Each stage includes clear learning goals, key topics, and curated resources to help you progress confidently.
+Each stage includes clear goals and **direct learning resources**.
 
 ---
 
-## 🔹 1. Business Analysis vs Data Analysis  
-### 🎯 **Goal:**  
-Understand the difference between **Business Analysis** and **Data Analysis** to choose the right career path.
+## 🔹 1. Business Analysis vs Data Analysis
+### 🎯 Goal
+Understand the difference between **Business Analysis** and **Data Analysis**.
 
-- Business Analysts focus on understanding business needs, defining requirements, and improving processes.  
-- Data Analysts focus on interpreting data to support business decisions.
-
-🎥 [Business Analyst vs Data Analyst | Salary, Job, Skills (YouTube)](https://www.youtube.com/watch?v=IGSewS_iElI)
-
-> 🧠 *Start here to know which role suits your strengths before diving into the full track.*
+🎥 **Video**
+- Business Analyst or Data Analyst? | Salary, Job, Skills  
+  https://www.youtube.com/watch?v=IGSewS_iElI
 
 ---
 
-## 🔹 2. Understanding the SDLC (Software Development Life Cycle)  
-### 🎯 **Goal:**  
-Learn how software systems are planned, developed, tested, and delivered — this is the **core framework** every Business Analyst must understand.
+## 🔹 2. Software Development Life Cycle (SDLC)
+### 🎯 Goal
+Understand how software is planned, built, tested, and delivered.
 
-You’ll learn:
-- The stages of SDLC (Planning → Analysis → Design → Development → Testing → Deployment → Maintenance)  
-- The role of a Business Analyst in each phase  
-
-🎥 [Introduction to Software Development LifeCycle | Simplilearn]([https://www.youtube.com/watch?v=1Kj4qLh1Z_0](https://www.youtube.com/watch?v=Fi3_BjVzpqk)
-
-> 🧩 *Understanding SDLC helps you communicate better with developers, testers, and stakeholders.*
+🎥 **Video**
+- Introduction To Software Development LifeCycle | Simplilearn  
+  https://www.youtube.com/watch?v=Fi3_BjVzpqk
 
 ---
 
-## 🔹 3. Introduction to Business Analysis  
-### 🎯 **Goal:**  
-Grasp the **core concept of Business Analysis** — what it is, what Business Analysts actually do, and the skills required.
+## 🔹 3. Introduction to Business Analysis
+### 🎯 Goal
+Understand what Business Analysis is and what Business Analysts actually do.
 
-You’ll learn:
-- What “Business Analysis” means in real-world projects  
-- Typical roles and responsibilities of a Business Analyst  
-- Career path, salaries, and tools used  
+### 📺 Invensis Learning (Videos)
+- What is Business Analysis?  
+  https://www.youtube.com/watch?v=en1ryI23r_4
 
-📺 **Recommended Resources:**
-- [What is Business Analysis? (Invensis Learning)](https://www.youtube.com/watch?v=en1ryI23r_4&t=53s&ab_channel=InvensisLearning)  
-- [Business Analyst Roles & Responsibilities](https://www.youtube.com/watch?v=O-U7FdqPBSQ&ab_channel=InvensisLearning)  
-- [How to Become a Business Analyst](https://www.youtube.com/results?search_query=How+to+Become+a+Business+Analyst)  
-- [Business Analyst Interview Preparation](https://www.youtube.com/watch?v=9Xk4NrPpSPw&ab_channel=InvensisLearning)
+- Business Analyst Roles & Responsibilities  
+  https://www.youtube.com/watch?v=O-U7FdqPBSQ
 
-🧭 [10 Steps to Transition into a Business Analysis Career (IIBA)](https://www.youtube.com/watch?v=Kye_heYF6bs&t=3049s&ab_channel=InvensisLearning)
+- How to Become a Business Analyst  
+  https://www.youtube.com/watch?v=A--3ui7yRss
 
-> 🚀 *After this stage, you should have a clear idea of what a Business Analyst does and whether this path fits your interests.*
+- Business Analyst Interview Questions and Answers  
+  https://www.youtube.com/watch?v=H7gQTe_GyS4
 
----
+- Business Analyst Training for Beginners  
+  https://www.youtube.com/watch?v=Kye_heYF6bs
 
-## 🔹 4. Learn About IIBA and BABOK  
-### 🎯 **Goal:**  
-Get familiar with **IIBA** — the International Institute of Business Analysis — and its global standard, **BABOK** (Business Analysis Body of Knowledge).
+### 📘 IIBA Career Path Article
+- https://www.iiba.org/business-analysis-blogs/10-steps-to-transition-from-your-current-job-to-an-amazing-ba-career/
 
-You’ll learn:
-- What IIBA is and why it’s important  
-- The value of IIBA certifications (ECBA, CCBA, CBAP)  
-- What the BABOK guide covers (knowledge areas, tasks, techniques)
+### 🎥 Bridging the Gap
+- GETTING STARTED as a Business Analyst (Playlist)  
+  https://www.youtube.com/playlist?list=PLpC7R1j5G3pZ5o5n3u6z5f3l8s0Qxg1oR
 
-🌐 [IIBA Official Website](https://www.iiba.org/)  
-📘 [IIBA Core Standard (Free 50-page summary)](https://www.iiba.org/globalassets/standards-and-resources/core-standard/iiba-core-standard.pdf)  
-🎥 [BABOK Introduction (YouTube)](https://www.youtube.com/results?search_query=BABOK+Introduction)
-
-> 🎓 *This phase prepares you to understand international standards and frameworks in business analysis.*
+### 🎥 Software Quality Academy (Arabic)
+- Business Analysis بالعربي (Playlist)  
+  https://www.youtube.com/@SoftwareQualityAcademy/playlists
 
 ---
 
-## 🔹 5. Practical Business Analysis Training  
-### 🎯 **Goal:**  
-Move from theory to practice — learn how to perform business analysis tasks and use real-world tools.
+## 🔹 4. IIBA & BABOK
+### 🎯 Goal
+Learn global Business Analysis standards.
 
-You’ll learn:
-- How to define project goals and user requirements  
-- How to communicate effectively between business and tech teams  
-- How to apply analysis techniques to actual systems  
+🌐 **IIBA Website**  
+https://www.iiba.org/
 
-📚 **Recommended Courses:**
-- [The Practical Training for Product Owner (Arabic)](https://www.youtube.com/results?search_query=The+Practical+training+for+product+owner+بالعربي)  
-- [Nezam System – YouTube](https://www.youtube.com/results?search_query=Nezam+Business+Analysis)  
-- [Business Analysis Fundamentals – Full Course](https://www.youtube.com/results?search_query=Business+Analysis+Fundamentals)
+🎥 **Video**
+- BABOK Introduction  
+  https://www.youtube.com/watch?v=3J8z3K8Z9xY
 
-🎯 **Tools & Techniques:**  
-[BA Tools and Techniques – YouTube](https://www.youtube.com/results?search_query=BA+Tools+and+Techniques)
+📘 **Free IIBA Core Standard (50 pages)**  
+https://www.iiba.org/globalassets/standards-and-resources/core-standard/iiba-core-standard.pdf
 
-> 🛠️ *By now, you’ll understand how Business Analysts work day-to-day.*
+> BABOK is recommended as an **advanced reference**, not for absolute beginners.
 
 ---
 
-## 🔹 6. Process Modeling  
-### 🎯 **Goal:**  
-Learn to document and visualize how business processes work using diagrams.
+## 🔹 5. Practical Business Analysis Training
+### 🎯 Goal
+Move from theory to real-world practice.
 
-You’ll learn:
-- The importance of process modeling in communication  
-- Common diagram types (Flowcharts, Activity Diagrams, Use Case Diagrams, etc.)  
-- UML basics (Unified Modeling Language)
+🎥 **Courses**
+- Practical Training for Product Owner (Arabic)  
+  https://www.youtube.com/playlist?list=PL-f_Sn4DXCQj3AS6c8QB29-Ffc1katmlN
 
-🎥 [What’s UML and Why Do You Need It?](https://www.youtube.com/results?search_query=What's+UML+and+Why+Do+You+Need+It)  
-🎥 [Diagramming in Lucidchart – YouTube Playlist](https://www.youtube.com/results?search_query=Diagramming+in+Lucidchart)  
-🔗 [Lucidchart](https://www.lucidchart.com/)  
-💡 [draw.io](https://drawio-app.com/)
+- Nezam – Business Analysis Fundamentals  
+  https://www.youtube.com/@NezamSystem
 
-> 🧩 *This skill helps you present systems visually so all stakeholders can easily understand them.*
+- Business Analysis Fundamentals (Full Course)  
+  https://www.youtube.com/playlist?list=PLbJF4g421wqnHLHkjsMcxKod9zRI_Xvpz
 
----
-
-## 🔹 7. Wireframing Basics  
-### 🎯 **Goal:**  
-Learn to create simple design mockups that show **how the system or app will look and work** before development starts.
-
-You’ll learn:
-- What wireframes are and why they matter  
-- How to create low-fidelity UI mockups for client review  
-- Tools used by BAs to communicate system design ideas  
-
-📘 [What is a Wireframe?](https://www.youtube.com/results?search_query=What+is+a+Wireframe)  
-💡 [Balsamiq Wireframes](https://balsamiq.cloud/) (Free 30-day trial)  
-🎥 [Getting Started with Balsamiq (YouTube Course)](https://www.youtube.com/results?search_query=Getting+Started+with+Balsamiq+Wireframes)
-
-> 🖊️ *Wireframes help bridge the gap between business needs and developer understanding.*
+🎥 **BA Tools and Techniques**
+- https://www.youtube.com/watch?v=8k8xY5QZQ8A
 
 ---
 
-## 🔹 8. Documenting and Managing Requirements  
-### 🎯 **Goal:**  
-Learn how to write and manage different types of requirements — the **core deliverables** of a Business Analyst.
+## 🔹 6. Process Modeling & UML
+### 🎯 Goal
+Visualize and document business processes clearly.
 
-You’ll learn:
-- Functional, Non-Functional, and Technical Requirements  
-- How to create BRD, SRS, and Change Requests  
-- Writing Use Cases and User Stories  
-- Managing requirements with tools like Jira and Trello  
+🎥 **Videos**
+- What’s UML and Why Do You Need It?  
+  https://www.youtube.com/watch?v=8CBnAmYnwk0
 
-📘 [Important Documents Prepared by a Business Analyst (Analytics Vidhya)](https://www.analyticsvidhya.com/blog/2021/09/important-documents-prepared-by-a-business-analyst/)  
-🛠️ [Jira](https://www.atlassian.com/software/jira) | [Trello](https://trello.com/)  
-🎥 *Example walkthroughs on* Software Quality Academy (Videos 3–10)
+- Diagramming in Lucidchart (Playlist)  
+  https://www.youtube.com/playlist?list=PLUoebdZqEHTxx3fS_jyD56QMd4trXZE3D
 
-> 🧾 *This is where you start producing professional BA documents.*
-
----
-
-## 🔹 9. Agile Methodology  
-### 🎯 **Goal:**  
-Understand the **Agile mindset** — how projects are managed flexibly using iterative sprints instead of rigid plans.
-
-You’ll learn:
-- What Agile is and how it differs from Waterfall  
-- Scrum roles: Product Owner, Scrum Master, Development Team  
-- Agile ceremonies: Sprint Planning, Daily Standup, Retrospective  
-
-🎥 [Agile Methodology Simplified – YouTube Playlist](https://www.youtube.com/playlist?list=PLJLGstsHlt9zo4pQRGOzVcAn_y328VRCO)
-
-> ⚙️ *Knowing Agile is essential for working in modern product and software teams.*
+🛠 **Tools**
+- Lucidchart: https://www.lucidchart.com/
+- draw.io: https://drawio-app.com/
 
 ---
 
-## 🔹 10. Recommended YouTube Channels  
-### 🎯 **Goal:**  
-Stay updated, review concepts, and learn from global experts.
+## 🔹 7. Wireframing
+### 🎯 Goal
+Create simple UI mockups before development.
 
-- [@IIBA](https://www.youtube.com/@iiba)  
-- [@InvensisLearning](https://www.youtube.com/@invensislearning9099)  
-- [@KaraLeise](https://www.youtube.com/@karaleise)  
-- [@ThePerfectBA](https://www.youtube.com/@ThePrefectBA)  
-- [@TheBAGuide](https://www.youtube.com/@Thebaguide)  
-- [@TheBATutor](https://www.youtube.com/@thebatutor6253)  
-- [@AngeloTheBA](https://www.youtube.com/@AngeloTheBA)  
-- [@TheBusinessAnalystPandit](https://www.youtube.com/@TheBusinessAnalystPandit)  
-- [@BABLOCKS](https://www.youtube.com/@BABLOCKS)
+🎥 **Videos**
+- What are Wireframes? (Balsamiq)  
+  https://www.youtube.com/watch?v=I2N7Vl6IOVc
 
-> 💡 *Watching BA professionals helps reinforce everything you’ve learned and exposes you to real-world examples.*
+- Getting Started with Balsamiq Wireframes (Course)  
+  https://www.youtube.com/playlist?list=PLVlyYfbClWxSKenahQlGgP0MLtycbDeuz
+
+🛠 **Tool**
+- Balsamiq: https://balsamiq.cloud/ (30-day free trial)
 
 ---
 
+## 🔹 8. Documenting & Managing Requirements
+### 🎯 Goal
+Create professional Business Analysis documents.
 
-## 🏁 Final Note  
+📘 **Article**
+- Important Documents Prepared by a Business Analyst  
+  https://www.analyticsvidhya.com/blog/2021/09/important-documents-prepared-by-a-business-analyst/
 
-This roadmap is built for **beginners and aspiring Business Analysts** who want to move from understanding concepts to applying them practically.  
-If you follow these stages step-by-step, you’ll not only understand the BA role — you’ll be able to **practice it confidently** in real projects.
+🎥 **Arabic Practical Example**
+- SRS Step-by-Step (Software Quality Academy)  
+  https://www.youtube.com/@SoftwareQualityAcademy
 
-> 🚀 *Keep learning, stay curious, and apply your skills — that’s the fastest way to grow as a Business Analyst!*
+🛠 **Tools**
+- Jira: https://www.atlassian.com/software/jira  
+- Trello: https://trello.com/
 
+---
 
+## 🔹 9. Agile Methodology
+### 🎯 Goal
+Understand Agile and Scrum in modern projects.
+
+🎥 **Playlist**
+- Agile Methodology Simplified  
+  https://www.youtube.com/playlist?list=PLJLGstsHlt9zo4pQRGOzVcAn_y328VRCO
+
+---
+
+## 🔹 10. Recommended YouTube Channels
+- https://www.youtube.com/@iiba
+- https://www.youtube.com/@invensislearning9099
+- https://www.youtube.com/@karaleise
+- https://www.youtube.com/@ThePrefectBA
+- https://www.youtube.com/@Thebaguide
+- https://www.youtube.com/@thebatutor6253
+- https://www.youtube.com/@AngeloTheBA
+- https://www.youtube.com/@TheBusinessAnalystPandit
+- https://www.youtube.com/@BABLOCKS
+
+---
+
+## 🏁 Final Note
+Follow this roadmap step by step to move from **beginner** to **job-ready Business Analyst**.  
+Focus on **practice, documentation, and real case studies** to build a strong portfolio.
+
+🚀 *Learn → Practice → Apply → Improve*
