@@ -26,7 +26,7 @@ You’ll learn:
 - The stages of SDLC (Planning → Analysis → Design → Development → Testing → Deployment → Maintenance)  
 - The role of a Business Analyst in each phase  
 
-🎥 [Introduction to Software Development LifeCycle | Simplilearn]([https://www.youtube.com/watch?v=1Kj4qLh1Z_0](https://www.youtube.com/watch?v=Fi3_BjVzpqk))
+🎥 [Introduction to Software Development LifeCycle | Simplilearn]([https://www.youtube.com/watch?v=1Kj4qLh1Z_0](https://www.youtube.com/watch?v=Fi3_BjVzpqk)
 
 > 🧩 *Understanding SDLC helps you communicate better with developers, testers, and stakeholders.*
 
@@ -42,12 +42,12 @@ You’ll learn:
 - Career path, salaries, and tools used  
 
 📺 **Recommended Resources:**
-- [What is Business Analysis? (Invensis Learning)]([https://www.youtube.com/results?search_query=What+is+Business+Analysis+Invensis+Learning](https://www.youtube.com/watch?v=en1ryI23r_4&t=53s&ab_channel=InvensisLearning))  
-- [Business Analyst Roles & Responsibilities]([https://www.youtube.com/results?search_query=Business+Analyst+Roles+and+Responsibilities](https://www.youtube.com/watch?v=O-U7FdqPBSQ&ab_channel=InvensisLearning))  
+- [What is Business Analysis? (Invensis Learning)](https://www.youtube.com/watch?v=en1ryI23r_4&t=53s&ab_channel=InvensisLearning)  
+- [Business Analyst Roles & Responsibilities](https://www.youtube.com/watch?v=O-U7FdqPBSQ&ab_channel=InvensisLearning)  
 - [How to Become a Business Analyst](https://www.youtube.com/results?search_query=How+to+Become+a+Business+Analyst)  
-- [Business Analyst Interview Preparation]([https://www.youtube.com/results?search_query=Business+Analyst+Interview+Questions+and+Answers](https://www.youtube.com/watch?v=9Xk4NrPpSPw&ab_channel=InvensisLearning))
+- [Business Analyst Interview Preparation](https://www.youtube.com/watch?v=9Xk4NrPpSPw&ab_channel=InvensisLearning)
 
-🧭 [10 Steps to Transition into a Business Analysis Career (IIBA)]([https://www.iiba.org/business-analysis-blogs/10-steps-to-transition-from-your-current-job-to-an-amazing-ba-career/](https://www.youtube.com/watch?v=Kye_heYF6bs&t=3049s&ab_channel=InvensisLearning))
+🧭 [10 Steps to Transition into a Business Analysis Career (IIBA)](https://www.youtube.com/watch?v=Kye_heYF6bs&t=3049s&ab_channel=InvensisLearning)
 
 > 🚀 *After this stage, you should have a clear idea of what a Business Analyst does and whether this path fits your interests.*
 
@@ -184,4 +184,5 @@ This roadmap is built for **beginners and aspiring Business Analysts** who want 
 If you follow these stages step-by-step, you’ll not only understand the BA role — you’ll be able to **practice it confidently** in real projects.
 
 > 🚀 *Keep learning, stay curious, and apply your skills — that’s the fastest way to grow as a Business Analyst!*
+
 
