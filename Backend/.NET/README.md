@@ -173,6 +173,7 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
 - ### JWT Tokens:
 
   - [JWT Authentication - DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
+  - [JWT refresh tokens](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=onSCNXb-ggnRHRYE)
 ---
 - ### ASP.NET Core MVC:
 
@@ -183,6 +184,9 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   
   **Option 2: Pluralsight (Recommended)**
   - [Pluralsight Courses](https://www.pluralsight.com/)
+---
+- ### .NET identy:
+  - [Identy playlist\[65:\]](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
 ---
 - ### SignalR Programming:
 
@@ -230,3 +234,4 @@ The More you'll practice the more you will explore more backend concepts. **This
 <a href="https://github.com/A7medhanysadek" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 </div>
 <div align="center"> <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner.png" alt=".NET Logo"/>  <p>Happy Learning! 🚀</p></div>
+
