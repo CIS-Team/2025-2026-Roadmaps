@@ -7,8 +7,8 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
 
 - [Prerequisites](#prerequisites)
 - [Beginner Level - C#ers](#beginner)
-- [Intermediate Level - Data Organizers](#Intermediate)
-- [Advanced Level - Developers](#Advanced)
+- [Intermediate Level - Data Organizers](#intermediate)
+- [Advanced Level - Developers](#advanced)
 
 ---
 
@@ -109,7 +109,7 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   - [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core)
 <br><br>
 
-# <a name="Intermediate"></a>Intermediate Level - Data organaizers
+# <a name="intermediate"></a>Intermediate Level - Data organaizers
 
 - ### SQL vs NoSQL:
 
@@ -161,7 +161,7 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
 
 <br><br>
 
-# <a name="Advanced"></a>Advanced Level - Developers
+# <a name="advanced"></a>Advanced Level - Developers
 
 - ### Web API:
 
@@ -237,5 +237,6 @@ The More you'll practice the more you will explore more backend concepts. **This
 <a href="https://github.com/A7medhanysadek" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 </div>
 <div align="center"> <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner.png" alt=".NET Logo"/>  <p>Happy Learning! 🚀</p></div>
+
 
 
