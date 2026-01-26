@@ -101,8 +101,10 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
 ---
 - ### Books:
   
-  - **Illustrated C# 7** *OR* **C# in a Nutshell** (recommended)
+  - **Illustrated C# 7**
+  - **C# in a Nutshell** (recommended)
   - **Head First Design Patterns** (2nd Edition)
+  - Clean Code by Robert Cecil Martin
 ---
 - ### Resources:
 
@@ -237,6 +239,7 @@ The More you'll practice the more you will explore more backend concepts. **This
 <a href="https://github.com/A7medhanysadek" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 </div>
 <div align="center"> <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner.png" alt=".NET Logo"/>  <p>Happy Learning! 🚀</p></div>
+
 
 
 
