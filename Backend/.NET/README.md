@@ -37,6 +37,9 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   
   **Option 2: Ghareeb Elshaikh**
   - [Git & GitHub Course](https://www.youtube.com/watch?v=fDkR0TDR9dI)
+  
+  **Option 3: English playlist**
+  - [Git & GitHub Course](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&si=PBuOCZ2GV1M4fYmv)
 ---
 - ### Networking Concepts:
 
@@ -186,7 +189,7 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   - [Pluralsight Courses](https://www.pluralsight.com/)
 ---
 - ### .NET identy:
-  - [Identy playlist\[65:\]](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
+  - [Identy playlist\[65 : 123\]](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
 ---
 - ### SignalR Programming:
 
@@ -234,4 +237,5 @@ The More you'll practice the more you will explore more backend concepts. **This
 <a href="https://github.com/A7medhanysadek" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 </div>
 <div align="center"> <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner.png" alt=".NET Logo"/>  <p>Happy Learning! 🚀</p></div>
+
 
