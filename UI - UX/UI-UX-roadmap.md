@@ -190,11 +190,14 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [📽️ Another resource pt.1](https://www.youtube.com/watch?v=txVbfm03Fs0)
 - [📽️ Another resource pt.2](https://www.youtube.com/watch?v=3HXGsDnmQ1c)
 - [📽️ Another resource pt.3](https://www.youtube.com/watch?v=CrbxlMbM518)
+- [📽️Another resource pt.4](https://youtu.be/UATKp18twQY?si=fqQ31pukCebf5Nvd)
 
 ------------------------------------------------------------------------------------------------- 
 
 ### Responsive:
-- [📽️ Arabic Video](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
+- [📽️ Responsive using constraints video](https://youtu.be/g1LDcbIcqgQ?si=NekSOWfIJgnpXIme)
+- [📽️ Using breakpoints](https://youtu.be/gsVWwYC9gXI?si=cujv6cDyOEwwtIGc)
+- [📽️ Responsive Grid Arabic Video](https://www.youtube.com/watch?v=xUfiMPTz2mI&pp=ygUOZ3JpZHMgaW4gZmlnbWE%3D)
 - [📽️ English Video](https://www.youtube.com/watch?v=gwiX0oASlEw)
   
 ----------------------------------------------------------------------------------------------------------------
@@ -274,6 +277,7 @@ A structured learning roadmap designed for CIS Team MU members to build and adva
 - [Galileo AI](https://galileo.ai/)
 - [Lovable](https://lovable.dev/designers)
 - [Stitch](https://stitch.withgoogle.com/)
+- [Brono AI](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://brono.ai/&ved=2ahUKEwjwk62N_p-SAxWtMvsDHVMHBjMQFnoECBAQAQ&usg=AOvVaw34d6CnxIVy4qQK5wyVxAS8)
 
 ## 📝 Tasks:
 - Full project with a team to apply all you’ve learnt.
