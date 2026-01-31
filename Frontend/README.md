@@ -53,7 +53,7 @@ Git enables code tracking and team collaboration. GitHub provides cloud-based re
 **Learning Path:**
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [Git Official Videos](https://git-scm.com/videos)
-- [Complete Git & GitHub Tutorial](https://youtu.be/Q6G-J54vgKc)
+- [Complete Git & GitHub Tutorial](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=xTmx85Uu6anZM4EX)
 - [Git Cheat Sheet Repository](https://github.com/FADL285/git-cheat-sheet)
 
 ---
