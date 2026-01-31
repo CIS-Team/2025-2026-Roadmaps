@@ -29,8 +29,8 @@ Frontend development is the practice of building user interfaces using HTML, CSS
 
 **Core Resources:**
 - [Frontend Development Overview](https://frontendmasters.com/guides/learning-roadmap/front-end-development-overview/)
-- [How the Internet Works - MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [How the Internet Works](https://youtu.be/TnMNDQHB33Q?si=ahtwECASCvCARpsT)
+- [HTTP Overview](https://www.youtube.com/playlist?list=PLAiJjvg9A6mLKTDYeEF_F6-mhLFGT7RZo)
 - [Understanding Browsers](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
 
 ---
