@@ -154,7 +154,7 @@
 
 📹 [PHPStorm](https://laracasts.com/series/phpstorm-for-laravel-developers) ***Highly Recommended***
 
-📽️ [Learn PHP 8 in Arabic]((https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq))
+📽️ [Learn PHP 8 in Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq)
 
 #### OR
 
@@ -514,6 +514,7 @@ OR
 📹 [Deploy on Shared Hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 
 </details>
+
 
 
 
