@@ -44,7 +44,10 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
 - ### Networking Concepts:
 
   - [Network Playlist](https://www.youtube.com/playlist?list=PLNE3WjwctlOy1ekMfZl9AbLyFivSgsfml)
-
+---
+- ###  Introduction to .NET:
+  
+  - [.NET Introduction](https://youtu.be/oRzjtOJGvWA)
 <br><br>
 
 # <a name="beginner"></a>Beginner Level - C#ers
@@ -86,18 +89,24 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   - [Advanced C# Part 1](https://www.youtube.com/watch?v=1oaMZsOhhu8&list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf)
   - [Advanced C# Part 2](https://www.youtube.com/watch?v=OWnkBWDLOJg&list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW)
 ---
-- ### SOLID Principles & Design Patterns:
-
+- ### SOLID Principles
   Choose one of the following for SOLID:
   
   **Option 1: Mohamed Elmahdy (recommended)**
-  - [SOLID & Design Patterns](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)
+  - [SOLID Principles Playlist](https://www.youtube.com/watch?v=bMT-pth4G20&list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq)
   
   **Option 2: Essam Abdelnabi**
-  - [SOLID Principles](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN)
+  - [SOLID Principles Playlist](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
+---
+- ### Design Patterns:
+
+  Choose one of the following for Design Patterns:
   
-  **Then study:**
-  - [Design Patterns - Essam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
+  **Option 1: Mohamed Elmahdy (recommended)**
+  - [Design Patterns Playlist](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)
+  
+  **Option 2: Essam Abdelnabi**
+  - [Design Patterns Playlist](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN)
 ---
 - ### Books:
   
@@ -148,6 +157,9 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   **Option 2: DevCreed**
   - [EF Core Playlist](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 ---
+- ### Database internals (Optional):
+  - [Hussein Nasser](https://www.udemy.com/course/database-engines-crash-course/)
+---
 - ### Books:
 
   - **Head First SQL** by Lynn Beighley
@@ -157,7 +169,8 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
 - ### Resources:
 
   - [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core)
-  - **Database Optimization** 
+  - **Database Optimization**
+    - [DB Internals and Optimizations](https://cstack.github.io/db_tutorial/)
   	- [Database Internals and Optimizations](https://sayedalesawy.hashnode.dev/series/high-performance-mysql) 
   	- [Concurrency, Race Conditions and Concurrency Control](https://sayedalesawy.hashnode.dev/concurrency-race-conditions-and-concurrency-control)
 
@@ -165,6 +178,11 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
 
 # <a name="advanced"></a>Advanced Level - Developers
 
+- ### Caching & Unit Testing:
+
+  - [Caching - DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)
+  - [Unit Testing - Essam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A)
+---
 - ### Web API:
 
   Choose one of the following:
@@ -190,22 +208,17 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   **Option 2: Pluralsight (Recommended)**
   - [Pluralsight Courses](https://www.pluralsight.com/)
 ---
+- ### Repository Pattern and Unit of Work 
+  - [DevCreed Playlist](https://www.youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73)
+---
 - ### .NET identy:
+  Choose one of the following:
+  
+  **Option 1: English**
   - [Identy playlist\[65 : 123\]](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
----
-- ### SignalR Programming:
-
-  - [SignalR - Tim Corey](https://youtube.com/playlist?list=PLpKgDC4jSbmcf2F1m53WmhiQZNmqUZoCb&si=vVu4g_zyBhgn_nuF)
----
-- ### NoSQL Database Programming:
-
-  - [NoSQL Explanation](https://www.youtube.com/watch?v=0buKQHokLK8)
-  - [MongoDB - freeCodeCamp](https://www.youtube.com/watch?v=fv2-A5e-KHA)
----
-- ### Caching & Unit Testing:
-
-  - [Caching - DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W)
-  - [Unit Testing - Essam Abdelnabi](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A)
+  
+  **Option 1: DevCreed**
+  - [DevCreed Playlist](https://www.youtube.com/watch?v=c-XaRp1jDjI&list=PL62tSREI9C-fnwdLjHVP9K9GSHg-r7dzR)
 ---
 - ### Hosting & Deployment:
   **Option 1: DevCreed - Easy way**
@@ -215,6 +228,15 @@ A comprehensive learning path for becoming a proficient .NET developer, from pre
   - [CI CD](https://www.youtube.com/watch?v=h9K1NnqwUvE)
   - [Docker](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
   - [Azure Fundmentals](https://www.youtube.com/watch?v=5abffC-K40c)
+---
+- ### SignalR Programming:
+
+  - [SignalR - Tim Corey](https://youtube.com/playlist?list=PLpKgDC4jSbmcf2F1m53WmhiQZNmqUZoCb&si=vVu4g_zyBhgn_nuF)
+---
+- ### NoSQL Database Programming:
+
+  - [NoSQL Explanation](https://www.youtube.com/watch?v=0buKQHokLK8)
+  - [MongoDB - freeCodeCamp](https://www.youtube.com/watch?v=fv2-A5e-KHA)
 ---
 - ### Books:
 
@@ -239,6 +261,7 @@ The More you'll practice the more you will explore more backend concepts. **This
 <a href="https://github.com/A7medhanysadek" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 </div>
 <div align="center"> <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner.png" alt=".NET Logo"/>  <p>Happy Learning! 🚀</p></div>
+
 
 
 
