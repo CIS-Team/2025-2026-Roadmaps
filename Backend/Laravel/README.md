@@ -251,7 +251,7 @@
 
 📽️ [Backend Bootcamp: Laravel & Backend Introduction - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
 
-📽️ [30 Days to learn Laravel 11](https://laracasts.com/series/30-days-to-learn-laravel-11)***Highly Recommended***
+📽️ [Laravel from scratch](https://laracasts.com/series/laravel-from-scratch-2026)***Highly Recommended***
 
 #### OR
 
@@ -514,6 +514,7 @@ OR
 📹 [Deploy on Shared Hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 
 </details>
+
 
 
 
