@@ -4,38 +4,43 @@
 <aside>
 💡  
 <b>Week 1</b>  
-- This week begins the first stage of learning the basics of Premiere Pro.
+- This week starts the first stage of learning the basics of Adobe Premiere Pro.
 </aside>
 
 ### 🗂️ **Resources**
 
 🌏 **Arabic**
 
-- [mostafa makram TV (1-12)](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY&si=GJga7vEWuAo6QZZO)
-- [Ibrahim Diallo (1–15)](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw&si=qt55qsIXoGNlwwtb)
-
+- [Mostafa Makram TV (Episodes 1–12)](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY&si=GJga7vEWuAo6QZZO)
+- [Ibrahim Diallo (Episodes 1–15)](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw&si=qt55qsIXoGNlwwtb)
 
 🌏 **English**
-- [Premiere Pro Full Course — Part 2 (0:00 – 3:00 hours)](https://youtu.be/eCsM0r3RNc4?si=KNBr23biyiFv2soL)
 
+- [Premiere Pro Full Course — Part 2 (0:00 – 3:00 hours)](https://youtu.be/eCsM0r3RNc4?si=KNBr23biyiFv2soL)
 
 ---
 
 <aside>
 💡  
 <b>Week 2</b>  
-- This week continues the basics of Premiere Pro.
+- This week begins the second stage of learning the basics of Adobe Premiere Pro.
 </aside>
 
 ### 🗂️ **Resources**
 
 🌏 **Arabic**
-- [mostafa makram TV (13-20)](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY&si=GJga7vEWuAo6QZZO)
-- [Ibrahim Diallo (15–24)](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw&si=qt55qsIXoGNlwwtb)
+
+- [Mostafa Makram TV (Episodes 13–20)](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY)
+- [Ibrahim Diallo (Episodes 16–24)](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw)
 
 🌏 **English**
-- [Premiere Pro Full Course — Part 2 (3:00 – 6:00 hours)](https://youtu.be/eCsM0r3RNc4?si=KNBr23biyiFv2soL)
 
+- [Premiere Pro Full Course — Part 2 (3:00 – 6:00 hours)](https://youtu.be/eCsM0r3RNc4)
+
+📌 **Note**
+
+- [Premiere Composer Plugin (Tutorial)](https://www.youtube.com/watch?v=RxElvUoYFBE)
+- [Download](https://misterhorse.com/premiere-composer)
 
 ---
 
@@ -51,52 +56,41 @@
 
 - [Fares Toson](https://youtu.be/4qIv6U367n8?si=SVAXpHG-6l7HY9tl)
 - <b>&& <b/>
-- [Mohamed Adel (Part - 9:06)](https://youtu.be/bicjsm0Vwb0?t=546&si=k3BlYdqGzVwLZfLr)
+- [Mohamed Adel (Premier Pro Part - 9:06)](https://youtu.be/bicjsm0Vwb0?t=546&si=k3BlYdqGzVwLZfLr)
 
 🌏 **English**
 
-- [Joseph | Video Editing](https://youtu.be/98CzEo5PIZ4?si=nai7gNn-uIKdYcVr)
--  <b>&& <b/>
+- [finzar](https://www.youtube.com/watch?v=dfOffqhCiwo)
+- <b>&& <b/>
 - [Javier Mercedes](https://youtu.be/PmlonRJZooM?si=-wRmraJHYkt8AqlG)
-
-
 
 ---
 
 <aside>
 💡  
 <b>Week 4</b>  
-- Learn the basics of color grading using Lumetri Color.
+- Learn how to create Reels in Adobe Premiere Pro.
 </aside>
 
 ### 🗂️ **Resources**
 
 🌏 **Arabic**
 
-- [MoneyLab University](https://youtu.be/fm9l-SxjEoE?si=03cWris9DqoBvKNl)  
-- [عبدالرحمن محمد](https://youtu.be/t_1M3x18Ibg?si=eYsgOruidT8KgDrK)
-
-🌏 **English**
-
-- [Zac Watson](https://youtu.be/1wZym4fQGig?si=pRZpKqJL58f-wtAU)
-
-
+- [Mohamed Adel (Reels Montage)](https://youtu.be/FUTcvjqI-ac?si=-hNoDW0iP1Luhrcx)
 
 ---
 
 <aside>
 💡  
 <b>Week 5</b>  
-- Focus on creating Reels in Premiere Pro.
+- Continue with advanced Reels techniques in Adobe Premiere Pro.
 </aside>
 
 ### 🗂️ **Resources**
 
 🌏 **English**
 
-- [THE Nicks Edit](https://youtu.be/KwBC4EBHIck?si=LhqA8mCj8Y4LjEO7)
-
-
+- [Tutorial](https://youtu.be/A-G_PyG4fLU?si=dWLMB5a6pa15nntV)
 
 ---
 
@@ -119,8 +113,6 @@
 
 - [GFXMentor (1–20)](https://youtube.com/playlist?list=PLW-zSkCnZ-gD8OcjTPu-u_Rxl9-kI9Xqr&si=pqFEvMKW9zYKc9Yv)
 
-
-
 ---
 
 <aside>
@@ -139,7 +131,6 @@
 
 - [GFXMentor (21–40)](https://www.youtube.com/playlist?list=PLW-zSkCnZ-gD8OcjTPu-u_Rxl9-kI9Xqr)
 
-
 ---
 
 <aside>
@@ -153,8 +144,6 @@
 🌏 **Arabic**
 
 - [Fares Toson](https://youtu.be/PFMIue9xTII?si=JJf-5AKMhTpJDjiN)
-
-
 
 ---
 
@@ -170,8 +159,6 @@
 
 - [Thameen](https://youtu.be/30a_U-mqQU4?si=_DBZNtOx-mdg6Bl-)
 
-
-
 ---
 
 <aside>
@@ -185,8 +172,6 @@
 🌏 **English**
 
 - [Tarik | Video Editor](https://youtu.be/ZRRQFWT17B8?si=otUDEzy3mPQCjtRa)
-
-
 
 ---
 
@@ -205,6 +190,6 @@
 
 - [Amr Atallah](https://youtu.be/1tE4VAdCjRo?si=sqd3ak7uJZiQnA8b)
 
-
+🌏 **English**
 
 - [Mike Russell - Final Export & Mastering](https://youtu.be/9UPNYWz0rQU?si=w0FykEy9PzMiy8gE)
