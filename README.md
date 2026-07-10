@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="./assest/logo.png" alt="CIS Team Logo" width="220">
 </p>
@@ -150,4 +149,3 @@ Every contribution helps make these roadmaps even better for the community.
 <p align="center">
 Made with ❤️ by <strong>CIS Team</strong>
 </p>
-```
