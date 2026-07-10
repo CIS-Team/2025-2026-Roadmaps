@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assest/logo.png" alt="CIS Team Logo" width="220">
+  <img src="./assest/logo.jpg" alt="CIS Team Logo" width="220">
 </p>
 
 <h1 align="center">🚀 CIS Team Roadmaps 2025–2026</h1>
