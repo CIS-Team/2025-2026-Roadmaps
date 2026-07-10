@@ -5,8 +5,7 @@
 <h1 align="center">🚀 CIS Team Roadmaps 2025–2026</h1>
 
 <p align="center">
-A curated collection of learning roadmaps designed to help students and self-learners
-master the most in-demand technical fields.
+A curated collection of learning roadmaps designed to help students and self-learners master the most in-demand technical fields.
 </p>
 
 <p align="center">
@@ -27,7 +26,7 @@ master the most in-demand technical fields.
 
 # 📖 About
 
-The **2025–2026 Roadmaps** repository is your complete learning guide for the most important technical specializations.
+The **CIS Team Roadmaps 2025–2026** repository is your complete learning guide for the most important technical specializations.
 
 Each roadmap provides a structured learning path that takes you from **Beginner → Intermediate → Advanced**, covering everything you need to become industry-ready.
 
@@ -77,7 +76,7 @@ Every roadmap contains:
 - ✅ Structured step-by-step learning path
 - 📚 Carefully selected learning resources
 - 🛠️ Essential tools and technologies
-- 💡 Best practices and industry tips
+- 💡 Industry best practices
 - 🎯 Practical exercises
 - 🚀 Real-world project ideas
 - 💼 Portfolio recommendations
@@ -86,7 +85,7 @@ Every roadmap contains:
 ---
 
 > [!TIP]
-> Don't skip levels. Following the roadmap in order will give you the strongest foundation and help you progress faster.
+> Follow each roadmap in order to build a strong foundation before moving to advanced topics.
 
 ---
 
@@ -104,21 +103,14 @@ This repository is ideal for:
 
 # 🌟 Why These Roadmaps?
 
-✔️ Beginner-friendly
-
-✔️ Structured learning journey
-
-✔️ Curated resources
-
-✔️ Industry-oriented
-
-✔️ Portfolio-focused
-
-✔️ Practical project ideas
-
-✔️ Covers modern technologies and best practices
-
-✔️ Updated for **2025–2026**
+- ✔️ Beginner-friendly
+- ✔️ Structured learning journey
+- ✔️ Carefully curated resources
+- ✔️ Industry-oriented content
+- ✔️ Portfolio-focused learning
+- ✔️ Hands-on project ideas
+- ✔️ Covers the latest technologies
+- ✔️ Updated for **2025–2026**
 
 ---
 
@@ -128,9 +120,9 @@ We believe learning is better together.
 
 If you'd like to improve any roadmap, suggest new resources, or fix an issue, feel free to:
 
-- Open an **Issue**
-- Submit a **Pull Request**
-- Share your suggestions with the CIS Team
+- 🐞 Open an **Issue**
+- 🚀 Submit a **Pull Request**
+- 💬 Share your ideas with the **CIS Team**
 
 Every contribution helps make these roadmaps even better for the community.
 
@@ -147,5 +139,5 @@ Every contribution helps make these roadmaps even better for the community.
 </h3>
 
 <p align="center">
-Made with ❤️ by <strong>CIS Team</strong>
+Made with ❤️ by <b>CIS Team</b>
 </p>
