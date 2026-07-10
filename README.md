@@ -84,7 +84,7 @@ Unlike random collections of resources, every roadmap is:
 
 | 📚 Tracks | 📖 Learning Paths | 🛠 Resources | 🚀 Projects |
 |-----------|------------------|-------------|------------|
-| **10** | Beginner → Advanced | Carefully Curated | Included |
+| **12** | Beginner → Advanced | Carefully Curated | Included |
 
 ---
 
@@ -107,12 +107,13 @@ Unlike random collections of resources, every roadmap is:
 | ⚙️ **Backend** | APIs, Databases, Frameworks, System Design | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Backend) |
 | 📊 **Business Analysis** | Requirements Engineering, UML, Agile, Documentation | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Business%20Analysis) |
 | 💻 **Computer Science** | Programming, Data Structures, Algorithms, OS, Networks | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Computer%20Science) |
-| 🔐 **Cyber Security** | Networking, Pentesting, Web Security, SOC | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Cyber%20Security) |
+| 🔐 **Cyber Security** | Networking, Pentesting, Web Security, SOC, Malware Analysis | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Cyber%20Security) |
 | 📱 **Flutter** | Cross-platform Mobile Development | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Flutter) |
-| 🌐 **Frontend** | HTML, CSS, JavaScript, React | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Frontend) |
+| 🌐 **Frontend** | HTML, CSS, JavaScript, React, Vue | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Frontend) |
 | 🎨 **UI / UX** | UX Research, Figma, Design Systems | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/UI%20-%20UX) |
 | 🎬 **Video Editing** | Premiere Pro, After Effects, Motion Graphics | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Video%20Editing) |
 | 🖌️ **Graphic Design** | Photoshop, Illustrator, Branding | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Graphic%20Design) |
+| 📣 **Marketing & Content** | Digital Marketing, Content Creation, Branding, SEO, Copywriting & Social Media | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Marketing%20%26%20Content) |
 
 <p align="right">
 <a href="#-cis-team-roadmaps-20252026">⬆ Back to Top</a>
@@ -232,6 +233,9 @@ Every contribution helps make these roadmaps even more valuable for the communit
 ├── Graphic Design/
 ├── UI - UX/
 ├── Video Editing/
+├── Marketing/
+│   ├── Marketing/ Marketing Roadmap.docx
+│   └── Content Creation/ Content Roadmap.docx
 │
 ├── assets/
 │   ├── logo.jpg
