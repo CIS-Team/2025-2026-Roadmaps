@@ -1,45 +1,153 @@
-# **2025–2026 Roadmaps**  
-🚀 **Your go-to resource for clear, structured, and up-to-date roadmaps for the most important technical tracks!**  
+```md
+<p align="center">
+  <img src="./assest/logo.png" alt="CIS Team Logo" width="220">
+</p>
 
-This repository contains **detailed, step-by-step roadmaps** designed to help you navigate your learning journey from **beginner → advanced**.  
-Each roadmap covers the **core concepts, tools, technologies, resources, and project ideas** you need to excel in your chosen field.
+<h1 align="center">🚀 CIS Team Roadmaps 2025–2026</h1>
 
----
+<p align="center">
+A curated collection of learning roadmaps designed to help students and self-learners
+master the most in-demand technical fields.
+</p>
 
-## **📂 Included Tracks**
+<p align="center">
 
-1. [**AI & Data Science**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/AI%20%26%20Data%20Science)  
-2. [**Backend**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Backend)  
-3. [**Business Analysis**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Business%20Analysis)  
-4. [**Computer Science**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Computer%20Science)  
-5. [**Cyber Security**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Cyber%20Security)  
-6. [**Flutter**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Flutter)  
-7. [**Frontend**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Frontend)  
-8. [**UI/UX**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/UI%20-%20UX)  
-9. [**Video Editing**](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Video%20Editing)  
+![GitHub Repo stars](https://img.shields.io/github/stars/CIS-Team/2025-2026-Roadmaps?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/CIS-Team/2025-2026-Roadmaps?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/CIS-Team/2025-2026-Roadmaps?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/CIS-Team/2025-2026-Roadmaps?style=for-the-badge)
 
-
-Each track includes:  
-- ✔️ Full roadmap  
-- ✔️ Skills and competencies  
-- ✔️ Tools & technologies  
-- ✔️ Recommended resources  
-- ✔️ Practice tasks and project ideas  
+</p>
 
 ---
 
-## **✨ Features**
-- 📘 Trusted recommended resources (books, videos, platforms)  
-- 🛠️ Essential tools and technologies for each specialization  
-- 🎯 Tips on building practical projects and portfolios  
-- 🌐 Insights into real industry practices  
-- 🔄 Updated and relevant to **2025–2026** skill demands  
-
-Whether you're a beginner, a student, or shifting careers, these roadmaps provide a clear direction to help you level up in your chosen field.
+> [!NOTE]
+> These roadmaps are continuously maintained and updated to reflect the latest industry standards and technologies for **2025–2026**.
 
 ---
 
-💻 **Start your journey today and level up your tech skills!**
+# 📖 About
 
-![logo](./assest/logo.png)  
-![slogan](./assest/slogan.png)
+The **2025–2026 Roadmaps** repository is your complete learning guide for the most important technical specializations.
+
+Each roadmap provides a structured learning path that takes you from **Beginner → Intermediate → Advanced**, covering everything you need to become industry-ready.
+
+Whether you're a university student, a self-learner, or planning a career transition, these roadmaps will help you build your knowledge with confidence and direction.
+
+---
+
+# 📊 Repository at a Glance
+
+| 📚 Tracks | 📖 Learning Paths | 🛠️ Tools | 🚀 Projects |
+|-----------|------------------|-----------|------------|
+| **10** | Beginner → Advanced | Industry Standard | Included |
+
+---
+
+# 📑 Table of Contents
+
+- [📂 Available Tracks](#-available-tracks)
+- [✨ What You'll Find](#-what-youll-find)
+- [🎯 Who Is This For?](#-who-is-this-for)
+- [🌟 Why These Roadmaps?](#-why-these-roadmaps)
+- [🤝 Contributing](#-contributing)
+
+---
+
+# 📂 Available Tracks
+
+| Track | Roadmap |
+|------|---------|
+| 🤖 **AI & Data Science** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/AI%20%26%20Data%20Science) |
+| ⚙️ **Backend** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Backend) |
+| 📊 **Business Analysis** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Business%20Analysis) |
+| 💻 **Computer Science** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Computer%20Science) |
+| 🔐 **Cyber Security** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Cyber%20Security) |
+| 📱 **Flutter** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Flutter) |
+| 🌐 **Frontend** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Frontend) |
+| 🎨 **UI/UX** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/UI%20-%20UX) |
+| 🎬 **Video Editing** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Video%20Editing) |
+| 🖌️ **Graphic Design** | [Open Roadmap](https://github.com/CIS-Team/2025-2026-Roadmaps/tree/main/Graphic%20Design) |
+
+---
+
+# ✨ What You'll Find
+
+Every roadmap contains:
+
+- ✅ Structured step-by-step learning path
+- 📚 Carefully selected learning resources
+- 🛠️ Essential tools and technologies
+- 💡 Best practices and industry tips
+- 🎯 Practical exercises
+- 🚀 Real-world project ideas
+- 💼 Portfolio recommendations
+- 🌍 Career-oriented guidance
+
+---
+
+> [!TIP]
+> Don't skip levels. Following the roadmap in order will give you the strongest foundation and help you progress faster.
+
+---
+
+# 🎯 Who Is This For?
+
+This repository is ideal for:
+
+- 🎓 University students
+- 💻 Self-learners
+- 🌱 Beginners
+- 🔄 Career shifters
+- 🚀 Anyone passionate about technology
+
+---
+
+# 🌟 Why These Roadmaps?
+
+✔️ Beginner-friendly
+
+✔️ Structured learning journey
+
+✔️ Curated resources
+
+✔️ Industry-oriented
+
+✔️ Portfolio-focused
+
+✔️ Practical project ideas
+
+✔️ Covers modern technologies and best practices
+
+✔️ Updated for **2025–2026**
+
+---
+
+# 🤝 Contributing
+
+We believe learning is better together.
+
+If you'd like to improve any roadmap, suggest new resources, or fix an issue, feel free to:
+
+- Open an **Issue**
+- Submit a **Pull Request**
+- Share your suggestions with the CIS Team
+
+Every contribution helps make these roadmaps even better for the community.
+
+---
+
+<p align="center">
+  <img src="./assest/slogan.png" alt="CIS Team Slogan" width="750">
+</p>
+
+---
+
+<h3 align="center">
+💙 Learn • Build • Practice • Grow
+</h3>
+
+<p align="center">
+Made with ❤️ by <strong>CIS Team</strong>
+</p>
+```
