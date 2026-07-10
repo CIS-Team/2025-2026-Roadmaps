@@ -96,6 +96,7 @@ Unlike random collections of resources, every roadmap is:
 - [🎯 Who Is This For?](#-who-is-this-for)
 - [🌟 Why These Roadmaps?](#-why-these-roadmaps)
 - [🤝 Contributing](#-contributing)
+- [🌍 Connect with CIS Team](#-connect-with-cis-team)
 
 ---
 
@@ -224,18 +225,52 @@ Every contribution helps make these roadmaps even more valuable for the communit
 2025-2026-Roadmaps/
 │
 ├── AI & Data Science/
+│   └── AI-&-Data-Science-roadmap.md
+│
 ├── Backend/
+│   ├── .NET
+│        └── README.md
+│   ├── Django
+│        └── README.md
+│   ├── Laravel
+│        └── README.md
+│   ├── Node.JS
+│        └── README.md
+│   ├── backendCIS.png
+│   └── README.md
+│
 ├── Business Analysis/
+│   └── Business-Analysis-roadmap.md
+│
 ├── Computer Science/
+│   └── Computer-Science-roadmap.md
+│
 ├── Cyber Security/
+│   ├── Malware Roadmap.md
+│   └── Pentest Roadmap.md
+│
 ├── Flutter/
+│   └── Flutter-roadmap.md
+│
 ├── Frontend/
+│   ├── README.md
+│   ├── React.md
+│   └── Vue.md
+│
 ├── Graphic Design/
-├── UI - UX/
-├── Video Editing/
+│   └── CIS Graphic Design Roadmap 2026.pdf
+│
 ├── Marketing/
-│   ├── Marketing/ Marketing Roadmap.docx
-│   └── Content Creation/ Content Roadmap.docx
+│   ├── Marketing/
+│        └── Marketing Roadmap.docx
+│   └── Content/
+│        └── Content Roadmap.docx
+│
+├── UI - UX/
+│   └── UI-UX-roadmap.md
+│
+├── Video Editing/
+│   └── video-editing-roadmap.md
 │
 ├── assets/
 │   ├── logo.jpg
@@ -243,6 +278,8 @@ Every contribution helps make these roadmaps even more valuable for the communit
 │
 └── README.md
 ```
+
+---
 
 # 🌍 Connect with CIS Team
 
