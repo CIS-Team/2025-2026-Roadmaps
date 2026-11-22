@@ -1,175 +1,311 @@
 <!-- README.md for Flutter Roadmap -->
 
-<img width="1920" height="1080" alt="flutter cover" src="https://github.com/user-attachments/assets/04df1f7c-b16b-4ca7-9061-14ff704b63ba" />
+# 🚀 Flutter Roadmap | 2026–2027
 
-# 🚀 Flutter Roadmap | 2026
 **"لِلَّهِ رَبِّ العالَمِين"**
+
+A structured learning journey designed to take members from programming fundamentals to building, testing, and preparing production-ready Flutter applications.
 
 ---
 
-## 🔗 Roadmap Levels:
+## 🔗 Roadmap Levels
+
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
-- [Important Topics](#important-topics)
+- [Final Graduation Project](#final-graduation-project)
 
 ---
 
-## Beginner:
-<details>
-  <summary>Objectives</summary>
+# 🟢 Beginner
 
-- Learning basics of programming (compiler, IDE, packages, libraries)
-- Background about Flutter & Dart
-- Dart basics, OOP, Exceptions, Futures
-- Solving programming problems
-- Widgets, state, stateful vs stateless, common widgets
+<details>
+<summary><strong>Objectives</strong></summary>
+
+- Understand programming fundamentals and problem-solving techniques.
+- Learn Dart programming language and Object-Oriented Programming.
+- Understand Null Safety, Exceptions, Futures, and Streams.
+- Learn Flutter fundamentals and widget architecture.
+- Build responsive user interfaces using Flutter.
+- Practice navigation, forms, layouts, and reusable widgets.
 
 </details>
 
 <details>
-  <summary>Timeline</summary>
+<summary><strong>Core Topics</strong></summary>
 
-- Weeks (https://same-index-908.notion.site/Timeline-1968988f7cf681e2a39bdba0dc884045)
+**Phase 1: Programming Foundations**
 
-</details>
+- Introduction to Software Engineering & Programming.
+- Variables, Data Types, Operators, and Control Flow.
+- Conditions, Loops, and Functions.
+- Collections and Basic Problem Solving.
+- Object-Oriented Programming Fundamentals.
 
-<details>
-  <summary>Final Project</summary>
+**Phase 2: Dart Programming**
 
-### Task 1: Hangman CLI
-- Research game logic
-- Build CLI app
-- Use Dart + OOP
-- Deliverables: code + optional README
+- Dart Syntax, Variables, and Data Types.
+- Functions and Collections.
+- OOP in Dart.
+- Null Safety and Type System.
+- Exception Handling.
+- Asynchronous Programming: Future, async/await, and Streams.
 
-### Task 2: System Analysis + OOP
-- Choose (Car Rental / Sales / Hotel Booking)
-- Analyze entities & flow
-- Implement OOP version
-- Deliverables: UML + code + presentation
+**Phase 3: Flutter Fundamentals**
 
-### Task 3: UI Implementation
-- Implement provided design
-- Pixel-perfect
-- Buttons functional
-- Deliverables: Flutter UI + widget tree
+- Flutter Setup and Project Structure.
+- Widgets and Widget Tree.
+- StatelessWidget and StatefulWidget.
+- Basic Material Widgets.
+- Layouts, Lists, and Grids.
+- Navigation and Forms.
 
-</details>
+**Phase 4: UI Development**
 
-
----
-
-## Intermediate:
-
-<details>
-  <summary>Objectives</summary>
-
-- Learning more advanced Flutter widgets, such as GridView and ListView.  
-- Gaining very good practical experience with UI coding in Flutter.  
-- Learning about pub.dev, how to add and use packages.  
-- Learning how to use Git & GitHub as a Version Control System.  
-- Learning how to use APIs using https package.  
-- Learning how to store data locally using sqflite package.
+- Responsive and Adaptive UI.
+- Reusable Custom Widgets.
+- Themes and Styling.
+- Assets and Fonts.
+- Flutter Animations.
+- Project Organization.
 
 </details>
 
 <details>
-  <summary>Timeline</summary>
+<summary><strong>Final Projects</strong></summary>
 
-- Weeks (https://same-index-908.notion.site/Timeline-1968988f7cf681959418ef88ef3bd065)
-</details>
+**Project 01 — Personal Profile App**
 
-<details>
-  <summary>Final Project</summary>
+- Build a personal portfolio interface.
+- Practice layouts, styling, and asset management.
 
+**Project 02 — To-Do Task Manager**
 
-**(Presentation needed)**
+- Build a task management application.
+- Implement CRUD operations and form validation.
+- Manage local application state.
 
-During this project, we will work in groups to plan, design, and implement an **Open Source project**.
+**Project 03 — Multi-Screen Knowledge App**
 
-We already have the **UI design** and the **Backend** prepared, and we will focus on integrating them together, improving features, and ensuring the system works efficiently and smoothly.
+- Build a multi-screen Flutter application.
+- Implement navigation, forms, and responsive UI.
 
-Each group must go through the following process:
-
-- Reviewing and understanding the provided **UI design** and **Backend structure**.
-- Coding the project in **Flutter**, connecting it with the existing Backend, and implementing the required functionalities.
-
-To get design inspiration or references, you can check:
-
-- https://www.figma.com/design/Wg2KItergElBs2W5weg7lE/Open-Source-Project?node-id=968-2342&p=f&t=LDzmYDziwFbIerYb-0
-
-To get Api, you can check:
-
-- https://github.com/IEEEManCSC/OpenLearnPlatform/blob/main/OpenLearnPlatform-API.postman_collection.json  ⇒ EndPoints  
-- https://olp-api.csc.ieeemansb.org/  ⇒ Base Url
-
-To know your group mates, please check the spreadsheet sent on the Announcement Channel in Discord.
+**Level Deliverable:** An independently developed, functional multi-screen Flutter application with organized code and custom UI.
 
 </details>
 
 ---
 
-## Advanced:
+# 🟡 Intermediate
 
 <details>
-  <summary>Objectives</summary>
+<summary><strong>Objectives</strong></summary>
 
-- Learning about common ways to create Animations in Flutter.  
-- Advancing in UI coding & using APIs in applications.  
-- Learning about Firebase services and how to use Firebase Authentication, Firebase Storage, Firebase Firestore.  
-- Learning how to achieve State Management in your application using provider package.  
-- Learning about Clean Code and SOLID Principles.
+- Build structured Flutter applications using Cubit and BLoC.
+- Integrate RESTful APIs and handle asynchronous network operations.
+- Work with local databases and persistent storage.
+- Integrate Firebase services into Flutter applications.
+- Apply Clean Architecture and proper project organization.
+- Use Git and GitHub for professional team collaboration.
+
 </details>
 
 <details>
-  <summary>Timeline</summary>
-- Weeks (https://same-index-908.notion.site/Timeline-1968988f7cf68146a2a3c286386667e2)
+<summary><strong>Core Topics</strong></summary>
+
+**Phase 1: State Management**
+
+- Ephemeral State vs. Application State.
+- setState Limitations.
+- BLoC Pattern and Cubit.
+- BlocProvider, BlocBuilder, BlocListener, and BlocConsumer.
+- Loading, Success, Empty, and Error States.
+
+**Phase 2: Networking & APIs**
+
+- Client-Server Architecture and HTTP.
+- RESTful API Standards.
+- JSON Serialization and Model Classes.
+- Dio, Interceptors, Headers, and Authentication Tokens.
+- Error Handling, Timeouts, and Pagination.
+
+**Phase 3: Local Data Storage**
+
+- SharedPreferences and Secure Storage.
+- SQLite and sqflite.
+- Caching Strategies.
+- Offline Data Synchronization.
+
+**Phase 4: Firebase Integration**
+
+- Firebase Setup and Configuration.
+- Firebase Authentication.
+- Cloud Firestore and CRUD Operations.
+- Firestore Queries and Security Rules.
+- Firebase Storage and Introduction to FCM.
+
+**Phase 5: Application Architecture**
+
+- Clean Architecture: Data, Domain, and Presentation.
+- Repository Pattern and Use Cases.
+- Entities and DTOs.
+- Dependency Injection.
+- Feature-First Project Structure.
+
+**Phase 6: Development Workflow**
+
+- Git and GitHub.
+- Feature Branching.
+- Pull Requests and Code Reviews.
+- Merge Conflict Resolution.
+- README Documentation and Issue Tracking.
+
 </details>
 
 <details>
-  <summary>Final Project</summary>
-The full Final Project description is provided here:
+<summary><strong>Final Projects</strong></summary>
 
-🔗 **Final Project Link:**  
-https://same-index-908.notion.site/Final-Project-1968988f7cf681ea93e8cee17ac05ed6
+**Project 01 — Weather Forecast App**
+
+- Integrate a real-world API using Dio.
+- Handle loading and error states.
+- Implement local city search.
+
+**Project 02 — Firebase Authentication & User Profile**
+
+- Implement secure authentication.
+- Store user data using Cloud Firestore.
+- Upload profile images.
+
+**Project 03 — Full E-Commerce Mobile App**
+
+- Build product catalogues and category filtering.
+- Implement cart state management using Cubit.
+- Integrate REST APIs and checkout functionality.
+
+**Level Deliverable:** A structured, multi-layered Flutter application integrated with external APIs and Firebase, with robust state management and Git documentation.
 
 </details>
 
 ---
 
-## Important Topics:
+# 🔴 Advanced
 
 <details>
-  <summary>Clean Code</summary>
+<summary><strong>Objectives</strong></summary>
 
-- Clean Code:
-(https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
-
+- Design scalable Flutter applications using advanced architecture.
+- Apply SOLID Principles and Design Patterns.
+- Master advanced BLoC communication and state optimization.
+- Implement advanced Firebase and backend integrations.
+- Develop advanced mobile features and background services.
+- Write unit, widget, and integration tests.
+- Apply CI/CD and professional development practices.
+- Prepare and publish production-ready applications.
 
 </details>
 
 <details>
-  <summary>Solid Principles</summary>
-- SOLID Principles:
-    (https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+<summary><strong>Core Topics</strong></summary>
+
+**Phase 1: Advanced Architecture**
+
+- Advanced Clean Architecture.
+- Modular Monolith Structure.
+- SOLID Principles.
+- Design Patterns: Factory, Singleton, Observer, Adapter, Strategy.
+- Scalable Enterprise Project Structures.
+
+**Phase 2: Advanced State Management**
+
+- Complex BLoC Communication.
+- Event Transformers.
+- Hydrated BLoC and State Persistence.
+- Concurrent Asynchronous Operations.
+- Widget Rebuild Optimization and State Selectors.
+
+**Phase 3: Advanced Backend Integration**
+
+- Complex Firestore Queries and Composite Indexes.
+- Data Modeling.
+- Custom Security Rules.
+- Cloud Functions and FCM.
+- OAuth2 Security and Token Refresh.
+
+**Phase 4: Advanced Mobile Development**
+
+- App Lifecycle and Background Tasks.
+- WorkManager.
+- Local Push Notifications.
+- Geolocation and Google Maps.
+- Deep Linking and Universal Links.
+
+**Phase 5: Testing & Quality Assurance**
+
+- Unit Testing and Mocking.
+- Widget Testing.
+- Integration Testing.
+- Memory Leak Detection.
+- DevTools Profiling and Render Tree Optimization.
+
+**Phase 6: Professional Development Practices**
+
+- Git Flow Collaboration.
+- Automated Code Quality Checks.
+- CI/CD with GitHub Actions or Codemagic.
+- Environment Configurations and Flavors.
+- Secure API Key Management.
+
+**Phase 7: Deployment & Release**
+
+- Android App Bundle (AAB).
+- Keystore and App Signing.
+- App Icons and Native Splash Screens.
+- Store Listing Assets.
+- Google Play Console Publishing.
+- Privacy Policy and Review Management.
 
 </details>
 
 <details>
-  <summary>Architecture MVVM</summary>
+<summary><strong>Advanced Practical Activities</strong></summary>
 
-- Flutter MVVM
-    [(36) 15- Flutter MVVM (عربى) - YouTube](https://www.youtube.com/playlist?list=PL3aG1K3LWCrfvjEBkx3ujAtg7yK0zzTiY)
+- Refactor legacy Flutter applications using Clean Architecture and SOLID.
+- Write comprehensive Unit and Widget Tests.
+- Target more than 80% code coverage.
+- Configure automated CI/CD pipelines.
+- Prepare and deploy production release builds to Google Play Console.
 
-</details>
+**Level Deliverable:** A production-grade, fully tested, secure Flutter application ready for store publication.
 
-<details>
-  <summary>Design Pattern</summary>
-
-- Design patterns
-    (https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR(
 </details>
 
 ---
 
+# 🎓 Final Graduation Project
+
+The final stage of the learning journey is to design, develop, test, and prepare a complete production-ready Flutter application.
+
+Members will work in collaborative engineering teams and follow the software development lifecycle:
+
+1. **Planning & Requirements** — Define the problem, requirements, and project scope.
+2. **UI/UX & Technical Design** — Prepare the interface and technical architecture.
+3. **Development** — Implement the application and integrate required services.
+4. **Testing & Code Review** — Validate functionality, quality, and reliability.
+5. **Release Preparation** — Configure production builds and release requirements.
+6. **Publishing** — Prepare the application for Google Play submission.
+
+**Final Goal:** Deliver a complete Flutter application ready for production release and Google Play review.
+
+---
+
+## 📌 Important Notes
+
+- Each level has its own detailed roadmap and learning materials.
+- Members should complete practical tasks and projects throughout the journey.
+- Progression between levels depends on technical competency and practical evaluation.
+- Learning is based on technical sessions, live coding, hands-on practice, and code reviews.
+
+---
+
+**Flutter Circle | 2026–2027**
